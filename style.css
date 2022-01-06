@@ -100,6 +100,7 @@ h1{
 .fourth-banner{
     display: flex;
     padding-left: 50px;
+    margin-bottom: 80px;
 }
 
 .half-width2{
@@ -110,4 +111,18 @@ h1{
 .half-width2 img{
     width: 65%;
     padding-left: 50px;
+}
+
+.last-banner{
+    display: flex;
+}
+
+.half-width3{
+    width: 50%;
+    padding-right: 130px;
+}
+
+.half-width3 img{
+    width: 40%;
+    padding-left: 200px;
 }
