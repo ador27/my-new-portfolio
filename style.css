@@ -7,7 +7,7 @@ body{
     display: flex;
     padding-left: 70px;
     padding-top: 30px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 .half-width{
@@ -49,6 +49,7 @@ h1{
 
 .second-banner{
     display: flex;
+    margin-bottom: 80px;
 }
 
 .middle-images{
@@ -77,4 +78,36 @@ h1{
     background-size: 100px 150px;
     padding: 20px 40px;
     border-radius: 30px;
+}
+
+.third-banner{
+    display: flex;
+    margin-bottom: 80px;
+
+}
+
+.half-width1{
+    width: 50%;
+    margin-right: 150px;
+}
+
+.half-width1 img{
+    padding-right: 100px;
+    width: 70%;
+    margin-left: 150px;
+}
+
+.fourth-banner{
+    display: flex;
+    padding-left: 50px;
+}
+
+.half-width2{
+    width: 50%;
+    margin-left: 70px;
+}
+
+.half-width2 img{
+    width: 65%;
+    padding-left: 50px;
 }
