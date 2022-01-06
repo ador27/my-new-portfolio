@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.first-banner{
+    display: flex;
+    padding-left: 70px;
+    padding-top: 30px;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    padding-left: 100px;
+    width: 70%;
+}
+h1{
+    font-size: 45px;
+}
+
+.tomato-color{
+    color: tomato;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(21, 67, 138), cyan);
+    color: white;
+    font-weight: 500;
+    padding: 8px 32px;
+    border-radius: 10px;
+}
+
+#first-slice{
+    border-left: 4px solid;
+    border-image: linear-gradient(rgb(21, 67, 138), cyan);
+    border-image-slice: 1;
+    padding-left: 10px;
+}
